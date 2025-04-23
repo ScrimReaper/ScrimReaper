@@ -2,7 +2,7 @@
 
 ## Tech Stack
 - ☕ Java (Spring Boot enthusiast, masochist)
-- 🐳 Docker (shipping code like Amazon Prime)
+- 🐳 Docker 
 - 🐧 Arch Linux (btw)
 - 🛠️ Solidity, TypeScript, C++, MariaDB, Redis,...
 
