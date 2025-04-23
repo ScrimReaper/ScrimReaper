@@ -11,5 +11,5 @@
 - Debugging things that worked yesterday
 
 ## Fun Fact
-I consider `systemctl restart` a personality trait.
-I have a severe weakness for Monster Energy
+I have a severe weakness for Monster Energy.  
+
